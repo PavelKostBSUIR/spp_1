@@ -1,0 +1,13 @@
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\bin\Debug\SPP_1(final version with graphics).exe.config
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\bin\Debug\SPP_1(final version with graphics).exe
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\bin\Debug\SPP_1(final version with graphics).pdb
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\bin\Debug\MyLib_1.dll
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\bin\Debug\MyLib_1.pdb
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1(final version with graphics).csproj.AssemblyReference.cache
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1_final_version_with_graphics_.Form1.resources
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1_final_version_with_graphics_.Properties.Resources.resources
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1(final version with graphics).csproj.GenerateResource.cache
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1(final version with graphics).csproj.CoreCompileInputs.cache
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1(final version with graphics).csproj.CopyComplete
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1(final version with graphics).exe
+C:\Users\pkost\source\repos\SPP_1(final version with graphics)\SPP_1(final version with graphics)\obj\Debug\SPP_1(final version with graphics).pdb
