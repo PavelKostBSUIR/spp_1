@@ -1,0 +1,6 @@
+C:\Users\pkost\source\repos\MyLib_1\MyLib_1\bin\Debug\MyLib_1.dll
+C:\Users\pkost\source\repos\MyLib_1\MyLib_1\bin\Debug\MyLib_1.pdb
+C:\Users\pkost\source\repos\MyLib_1\MyLib_1\obj\Debug\MyLib_1.csproj.AssemblyReference.cache
+C:\Users\pkost\source\repos\MyLib_1\MyLib_1\obj\Debug\MyLib_1.csproj.CoreCompileInputs.cache
+C:\Users\pkost\source\repos\MyLib_1\MyLib_1\obj\Debug\MyLib_1.dll
+C:\Users\pkost\source\repos\MyLib_1\MyLib_1\obj\Debug\MyLib_1.pdb
